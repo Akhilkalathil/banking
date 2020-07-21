@@ -1,0 +1,4 @@
+INFO  - 2020-07-13 11:28:05.916; com.bakking.testcases.TC_LoginTest_001; URL loaded
+INFO  - 2020-07-13 11:28:06.239; com.bakking.testcases.TC_LoginTest_001; User name entered
+INFO  - 2020-07-13 11:28:06.450; com.bakking.testcases.TC_LoginTest_001; Password entered
+INFO  - 2020-07-13 11:28:07.310; com.bakking.testcases.TC_LoginTest_001; Button submit clicked
