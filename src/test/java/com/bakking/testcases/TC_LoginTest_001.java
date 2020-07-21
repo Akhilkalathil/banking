@@ -18,6 +18,7 @@ public class TC_LoginTest_001 extends baseclass
 	{
 		// removed and copy pasted to base class under driver
 		//driver.get(baseURL);
+		// git check just for checking added this line
 		
 		logger.info("URL loaded");
 		
